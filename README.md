@@ -54,8 +54,8 @@ near 0. The overlap between groups is too large to use ratings as a reliable pre
 
 ### 3. Revenue by decade
 ![Revenue by decade](assets/revenue_by_decade.png)
-Clear upward trend from ~$30B in the 1980s to ~$200B in the 2010s, with the 
-steepest jump between the 1990s (~$80B) and 2000s (~$175B).
+Clear upward trend from $30B in the 1980s to $200B in the 2010s, with the 
+steepest jump between the 1990s ($80B) and 2000s ($175B).
 
 ### 4. Top 10 highest-grossing movies
 ![Top 10 movies](assets/top10_revenue.png)
