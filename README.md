@@ -1,4 +1,4 @@
-# Movie EDA — What Actually Drives Box Office Success?
+# Movie EDA — What Actually Drives Box Office Revenue?
 
 An exploratory data analysis of ~45,000 movies from the TMDB dataset, examining 
 the relationships between budget, revenue, audience ratings, language, and release decade.
